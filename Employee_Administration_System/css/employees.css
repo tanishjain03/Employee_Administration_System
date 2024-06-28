@@ -1,0 +1,36 @@
+.employeeGrid {
+    height:35vh;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    border: 1px sloid black;
+    overflow: scroll;
+}
+.employeeGridHeader {
+    text-align:right;
+    padding: 5px;
+}
+.employeeGridSNoColumnTitle {
+    width:60px;
+    text-align:center;
+}
+.employeeGridIdColumnTitle {
+    width:200px;
+    text-align:center;
+}
+.employeeGridNameColumnTitle {
+    width:200px;
+    text-align:center;
+}
+.employeeGridDesignationColumnTitle {
+    width:200px;
+    text-align:center;
+}
+.employeeGridEditOptionColumnTitle {
+    width:100px;
+    text-align:center;
+}
+.employeeGridDeleteOptionColumnTitle {
+    width:100px;
+    text-align:center;
+}
